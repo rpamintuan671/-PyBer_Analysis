@@ -23,5 +23,14 @@ Inserty Fig7.png % of Total  Drivers by City Type
 
 
 
-# Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
-the challenge is the lack of data on cost per mile and time in three different city types. Rural area fares per ride may be higher compare to the urban and suburban areas, this maybe the distance between the destinations per ride. 
+# Summary: 
+Based on our analysis, urban area has the highest total rides but the lowest average fare per driver. In my opinion, this could be due to the number of drivers or lower fees per ride. In rural area, the total ride is the lowest due to demand but the average fare per driver is higher. The higher average fare per driver compensate the drivers due to low demand therefore the drivers will be more motivated to drive in such area. Drivers will not work if it is not worth their time. 
+
+The challenge on the data provided is the lack of cost per mile and distance per ride in three different city types. Rural area fares per ride may be higher compare to the urban and suburban areas, this maybe the due to distance between the destinations per ride. Additional data on total earnings per driver can be useful in this analyis.
+
+
+## Recommendations to CEO based on provided data and analysis.
+1. Keep the number of drivers in rural and limit new drivers in urban areas.
+2. Provide additional pay per ride in urban area.
+3. Provide bonuses to drivers after they reach ride goals. 
+
