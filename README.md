@@ -32,5 +32,5 @@ The challenge on the data provided is the lack of cost per mile and distance per
 ## Recommendations to CEO based on provided data and analysis.
 1. Keep the number of drivers in rural and limit new drivers in urban areas.
 2. Provide additional pay per ride in urban area.
-3. Provide bonuses to drivers after they reach ride goals. 
+3. Provide bonuses to drivers after they reach ride goals and increase higher bonuses during peak month or during holidays when demand for ride is higher.
 
