@@ -27,6 +27,7 @@ Inserty Fig7.png % of Total  Drivers by City Type
 Based on our analysis, urban area has the highest total rides but the lowest average fare per driver. In my opinion, this could be due to the number of drivers or lower fees per ride. In rural area, the total ride is the lowest due to demand but the average fare per driver is higher. The higher average fare per driver compensate the drivers due to low demand therefore the drivers will be more motivated to drive in such area. Drivers will not work if it is not worth their time. 
 
 The challenge on the data provided is the lack of cost per mile and distance per ride in three different city types. Rural area fares per ride may be higher compare to the urban and suburban areas, this maybe the due to distance between the destinations per ride. Additional data on total earnings per driver can be useful in this analyis.
+![Pyber_fare_summary](https://user-images.githubusercontent.com/106283411/180626694-fc35a5e1-b69a-422d-a5ad-7df0d9623be8.png)
 
 
 ## Recommendations to CEO based on provided data and analysis.
